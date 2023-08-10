@@ -3,8 +3,9 @@
 **Blog** - [Hyein's Blog](https://greentea-ds.tistory.com/)  
 **E-mail** - <phi498@naver.com>  
 
-<p>Hi, I'm a Data Scientist. I like to create value with data.</p>
-<p>See below for skills and project experiences.</p>
+<p>Hi, I'm a Data Scientist. I like to create value with data.
+  See below for skills and project experiences.
+</p>
 
 <h3> Tech Stack </h3>
 
