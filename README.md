@@ -1,9 +1,9 @@
-<h2> I'm Hyein 🐰 </h2>
+<h1> I'm Hyein 🐰 </h1>
 
 **Blog** - [Hyein's Blog](https://greentea-ds.tistory.com/)  
 **E-mail** - <phi498@naver.com>  
 
-Hi, I'm a Data Scientist. I like to create value with data.<br>
+Hi🤚🏻 I'm a Data Scientist. I like to create value with data.<br>
 See below for skills and project experiences.
 
 <h3> Tech Stack </h3>
