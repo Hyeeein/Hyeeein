@@ -21,8 +21,11 @@
 |Collaboration | Git, Slack, Notion, Google Drive, PPT, Excel, … |
 
 <h3> Projects </h3>
-1. [HandiNavi](https://github.com/Hyeeein/HandiNavi)
-2. [Import and Export](https://github.com/Hyeeein/ImportAndExport)
-3. [PlantDoctor](https://github.com/Hyeeein/PlantDoctor)
-4. [Search Keywords & On-line Shopping Correlation](https://github.com/Hyeeein/Correlation_Analysis)
-5. [Menu Recommendation](https://github.com/Hyeeein/MenuApp)
+
+| No | Name |
+|---|---|
+|1| [HandiNavi](https://github.com/Hyeeein/HandiNavi) | 
+|2| [Import and Export](https://github.com/Hyeeein/ImportAndExport) | 
+|3| [PlantDoctor](https://github.com/Hyeeein/PlantDoctor) | 
+|4| [Search Keywords & On-line Shopping Correlation](https://github.com/Hyeeein/Correlation_Analysis) | 
+|5| [Menu Recommendation](https://github.com/Hyeeein/MenuApp) | 
