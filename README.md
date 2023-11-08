@@ -4,21 +4,7 @@
 **E-mail** - <phi498@naver.com>  
 
 Hi🤚🏻 I'm a Data Scientist. I like to create value with data.<br>
-See below for skills and project experiences.
-
-<h3> Tech Stack </h3>
-
-| Field | Detail |
-|---|---|
-|Data Analysis | Numpy, Pandas, Matplotlib, Seaborn, Folium, Web Crawling, Data Visualization |
-|Data Science | Scikit-learn, OLS, Time Series, ARIMA, Regression, NLP, Recommendation, Reinforcement Learning, CNN (Resnet, VGG16, YOLOv5) |
-|Deep Learning Framework | TensorFlow, Pytorch |
-|DB | MySQL, SQLlite |
-|Server | Apache, AWS EC2 |
-|OS | Linux |
-|Front-End | HTML5, CSS3, JavaScript(ES6), AndroidStudio |
-|Back-End | Django |
-|Collaboration | Git, Slack, Notion, Google Drive, PPT, Excel, … |
+See below for project experiences.
 
 <h3> Projects </h3>
 
