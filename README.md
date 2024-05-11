@@ -14,4 +14,4 @@ See below for project experiences.
 |2| [Import and Export](https://github.com/Hyeeein/ImportAndExport) | Regression, ARIMA, Time Series |
 |3| [PlantDoctor](https://github.com/Hyeeein/PlantDoctor) | Computer Vision |
 |4| [Search Keywords & On-line Shopping Correlation](https://github.com/Hyeeein/Correlation_Analysis) | Correlation, Time Series |
-|5| [Menu Recommendation](https://github.com/Hyeeein/MenuApp) | NLP, Recommendation |
+|5| [Menu Recommendation](https://github.com/Hyeeein/MenuApp) | Recommendation |
